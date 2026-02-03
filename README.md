@@ -1,8 +1,8 @@
 ## 👋 About Me
 
 ****Student Developer****  
-Web, desktop, mobil ve embedded sistemlerde kendimi geliştiren bir yazılım geliştiricisiyim.  
-Modern **React tabanlı arayüzler**, güçlü backend yapıları ve donanım entegrasyonları üzerine çalışıyorum.
+I am a software developer improving myself in web, desktop, mobile, and embedded systems.
+I work on modern React-based interfaces, robust backend architectures, and hardware integrations.
 
 ---
 
