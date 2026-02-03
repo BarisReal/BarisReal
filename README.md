@@ -7,8 +7,9 @@ Modern **React tabanlı arayüzler**, güçlü backend yapıları ve donanım en
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Barisreality)
+[![Discord](https://img.shields.io/badge/Discord-barisreal-1a1a1a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/barisreal)
+
 
 ---
 
