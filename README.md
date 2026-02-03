@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-**Full Stack Developer**  
-Web, desktop ve embedded sistemlerde **uçtan uca çözümler** geliştiren bir yazılım geliştiricisiyim.  
+****Student Developer****  
+Web, desktop, mobil ve embedded sistemlerde kendimi geliştiren bir yazılım geliştiricisiyim.  
 Modern **React tabanlı arayüzler**, güçlü backend yapıları ve donanım entegrasyonları üzerine çalışıyorum.
 
 ---
@@ -37,6 +37,3 @@ Modern **React tabanlı arayüzler**, güçlü backend yapıları ve donanım en
 
 ---
 
-## 🚀 Vizyondum
-> “İyi bir başlangıç, yarı yarıya başarı demektir.”  
-> — **André Gide**
